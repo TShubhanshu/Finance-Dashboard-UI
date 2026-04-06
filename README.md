@@ -1,6 +1,5 @@
 # finio. — Finance Dashboard
-
-> Frontend Developer Internship Assignment  
+  
 > Built with **React 18 · Chart.js · localStorage · Vite**
 
 ---
