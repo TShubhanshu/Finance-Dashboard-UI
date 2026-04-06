@@ -177,4 +177,4 @@ Switch roles via the dropdown in the sidebar.
 
 ---
 
-*finio. — Finance Dashboard — Frontend Developer Internship Submission*
+*finio. — Finance Dashboard *
